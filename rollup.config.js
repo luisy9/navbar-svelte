@@ -8,12 +8,12 @@ import postcss from "rollup-plugin-postcss";
 const production = !process.env.ROLLUP_WATCH;
 
 export default {
-  input: "src/carter-website-navbar-cw.js",
+  input: "src/svelte-react-vue-angular-spa-navbar.js",
   output: {
     sourcemap: true,
     format: "system",
     name: null, // ensure anonymous System.register
-    file: "dist/carter-website-navbar-cw.js",
+    file: "dist/svelte-react-vue-angular-spa-navbar.js",
   },
   plugins: [
     postcss({
