@@ -29,6 +29,8 @@
                         <li><a class="dropdown-item" href="react">React Application</a></li>
                         <li><a class="dropdown-item" href="vue">Vue Application</a></li>
                         <li><a class="dropdown-item" href="angular">Angular Application</a></li>
+                        <li><a class="dropdown-item" href="generators">Docs</a></li>
+                        <li><a class="dropdown-item" href="generators">Analytics</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
